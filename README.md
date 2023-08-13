@@ -3,7 +3,7 @@
 - 🌱 I’m currently struggling with Unity
 
 - 💞️ I’m looking to collaborate on AAA old good shooter
-- 📫 How to reach me ... You don't want to reach me. You have already reached me if you are here
+- 📫 How to reach me... You surely have already reached me if you are here
 
 
 <!---
