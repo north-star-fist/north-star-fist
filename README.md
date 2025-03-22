@@ -29,7 +29,9 @@ Technologies & tools:
 * VContainer
 * DOTweens
 * Addressables
+
 [See on App Store](https://play.google.com/store/apps/dev?id=5694854181182513422)
+
 
 ### Mecha Combat
 ![Mecha Combat Pic](https://img.itch.zone/aW1hZ2UvMjE3ODIyNS8xNDEzNDAzNS5wbmc=/original/NQuRxs.png)
@@ -39,12 +41,14 @@ Technologies & tools:
 * NGO
 * UniTask
 
+
 ### Tetra4bica
 [Tetra4bica](https://buggie-woogie.itch.io/tetra4bica) is a casual mobile game for your grandpa, who played Tetris being young
 Technologies & tools:
 * UniRx
 * Zenject
 * DOTween
+
 
 ### SquadBlast
 ![SquadBlast Pic](https://images.squarespace-cdn.com/content/v1/61939cd47f722d798b305763/b3c5e47f-a998-446c-ba08-327eb055857e/SquadBlast_screenshot_13.jpg?format=1500w)
@@ -54,6 +58,7 @@ Technologies & tools:
 * Functional Programming Style
 * UniRx like library
 
+
 ### Rock N Smoke Racing
 ![RNSR Pic](https://img.itch.zone/aW1hZ2UvMjMzMTk2MC8xMzg0MDYzNy5wbmc=/original/TwblV4.png)
 [Rock N Smoke Racing](https://buggie-woogie.itch.io/rock-n-smoke-racing) is a single player ‘Racing’ game created for some training course initially. It’s more like Carmageddon with no opponents.
@@ -61,9 +66,11 @@ Technologies & tools:
 * Custom Car Physics
 * UMA 2
 
-### Codename: Space Lady
-Semi-abandoned Third Person Sci-Fi pet project
 
+### Codename: Space Lady
+![CSL pic1](images/screenshots/csl/scr_1.png)
+![CSL pic2](images/screenshots/csl/scr_2.png)
+Semi-abandoned Third Person Sci-Fi pet project
 Technologies & tools:
 * UMA 2
 * UniTask
