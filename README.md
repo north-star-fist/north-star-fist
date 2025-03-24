@@ -18,6 +18,7 @@ Experienced in programming for 20 years. First C++ then Java and C# finally (bec
 * Design patterns (GoF, MVC/P, etc)
 * Basics of Blender
 
+---
 
 # Projects
 
@@ -35,6 +36,7 @@ Technologies & tools:
 
 [See on App Store](https://play.google.com/store/apps/dev?id=5694854181182513422)
 
+---
 
 ## Mecha Combat
 ![Mecha Combat Pic](https://img.itch.zone/aW1hZ2UvMjE3ODIyNS8xNDEzNDAzNS5wbmc=/original/NQuRxs.png)
@@ -46,6 +48,7 @@ Technologies & tools:
 * NGO
 * UniTask
 
+---
 
 ## Tetra4bica
 [Tetra4bica](https://buggie-woogie.itch.io/tetra4bica) is a casual mobile game for your grandpa, who played Tetris being young
@@ -55,6 +58,7 @@ Technologies & tools:
 * Zenject
 * DOTween
 
+---
 
 ## SquadBlast
 ![SquadBlast Pic](https://images.squarespace-cdn.com/content/v1/61939cd47f722d798b305763/b3c5e47f-a998-446c-ba08-327eb055857e/SquadBlast_screenshot_13.jpg?format=1500w)
@@ -66,6 +70,7 @@ Technologies & tools:
 * Functional Programming Style
 * UniRx like library
 
+---
 
 ## Rock N Smoke Racing
 ![RNSR Pic](https://img.itch.zone/aW1hZ2UvMjMzMTk2MC8xMzg0MDYzNy5wbmc=/original/TwblV4.png)
@@ -76,6 +81,7 @@ Technologies & tools:
 * Custom Car Physics
 * UMA 2
 
+---
 
 ## Codename: Space Lady
 ![CSL pic1](images/screenshots/csl/scr_1.png)
