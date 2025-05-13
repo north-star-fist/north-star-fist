@@ -3,7 +3,7 @@
 Freelancer. About 8 years of using Unity. C# programming, 3D and 2D games development, multiplayer/singleplayer. Shooters, puzzles, etc. PC/Consoles preferrable.
 
 # About Me
-Experienced in programming for 20 years. First C++ then Java and C# finally (because of Unity). Love video games since chilhood. So at some point decided to dive into game development. Chose Unity engine, opened Angry Bots as a sample project (that was quite a long time ago). And that's how it started. Now I'm making video games and love it still.
+Experienced in programming for 20 years. First C++ then Java and C# finally (because of Unity). Love video games since chilhood. So at some point decided to dive into game development. Chose Unity engine, opened Angry Bots as a sample project (that was quite a long time ago). And that's how it started. Now I'm making video games and I love it.
 
 # Skills
 * C#
